@@ -3,7 +3,6 @@
 ## Om prosjektet
 Dette prosjektet handler om å designe og konfigurere et Active Directory-miljø i en virtuell maskin med Windows Server. Målet er å organisere brukere og grupper i et domene, og bruke Group Policy (GPO) for å styre innstillinger sentralt.
 
----
 
 ## Innhold i prosjektet
 - Opprettelse av Active Directory-domene
@@ -14,12 +13,12 @@ Dette prosjektet handler om å designe og konfigurere et Active Directory-miljø
 - Sikkerhetsinnstillinger som skjermsparer etter 5 minutter med passordkrav
 - Oppsett av delte mapper og tilgangsstyring via AD-grupper
 
----
+
 
 ## Mål
 Målet med prosjektet er å vise forståelse for hvordan et Windows-domene kan administreres sentralt, og hvordan brukere kan styres gjennom grupper og policyer.
 
----
+
 
 ##  Teknologi brukt
 - Windows Server 2022
